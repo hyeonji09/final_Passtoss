@@ -13,4 +13,4 @@
 * IDE : sts
 * Database : Oracle DB(11xe)
 * Language : Javascript, CSS, SQL
-* ORM : Mybatis
+* Framework : Mybatis
